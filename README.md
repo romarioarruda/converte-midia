@@ -9,7 +9,7 @@ npm install
 ```
 npm run serve
 
-ou
+or
 
 npm run electron:serve
 ```
@@ -18,7 +18,7 @@ npm run electron:serve
 ```
 npm run build
 
-ou
+or
 
 npm run electron:build
 ```
